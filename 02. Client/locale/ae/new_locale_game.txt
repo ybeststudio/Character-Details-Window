@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	ָֻֽ Úה דßַÝֳֹ...
+DETAILS_STAT_BOSS	ַבׂÚדֱַ ַבדÞÊזבזה
+DETAILS_STAT_DUNGEON	ַבׂהַׂהַÊ ַבדßÊדבֹ
+DETAILS_STAT_FISH	ַבֳ׃דַß ַבדױ״ַֹֿ
+DETAILS_STAT_MINE	ַבדÚַֿה ַבד׃Ê־ֹּׁ
+DETAILS_STAT_STONE	ַבֳַּֽׁ ַבדֽ״דֹ
+DETAILS_TAB_BONUS	ַבדßַÝֲÊ
+DETAILS_TAB_STAT	ַבֵֽױֶַםַÊ

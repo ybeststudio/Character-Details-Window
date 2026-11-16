@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Hledat bonus...
+DETAILS_STAT_BOSS	Šéf zabit
+DETAILS_STAT_DUNGEON	Dungeon dokonèen
+DETAILS_STAT_FISH	Ryba zachycena
+DETAILS_STAT_MINE	Extrahované minerály
+DETAILS_STAT_STONE	Kámen znièen
+DETAILS_TAB_BONUS	Bonusy
+DETAILS_TAB_STAT	Statistiky

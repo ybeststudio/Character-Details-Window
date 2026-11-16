@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Buscar bono...
+DETAILS_STAT_BOSS	Jefes derrotados
+DETAILS_STAT_DUNGEON	Mazmorras completadas
+DETAILS_STAT_FISH	Peces capturados
+DETAILS_STAT_MINE	Minerales extraídos
+DETAILS_STAT_STONE	Piedras destruidas
+DETAILS_TAB_BONUS	Bonificaciones
+DETAILS_TAB_STAT	Estadísticas

@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Cautã bonus...
+DETAILS_STAT_BOSS	Seful Ucis
+DETAILS_STAT_DUNGEON	Temnita finalizata
+DETAILS_STAT_FISH	Peste capturat
+DETAILS_STAT_MINE	Minerale extrase
+DETAILS_STAT_STONE	Piatra Distrusa
+DETAILS_TAB_BONUS	Bonusuri
+DETAILS_TAB_STAT	Statistici

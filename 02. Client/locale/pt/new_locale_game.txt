@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Buscar Bônus...
+DETAILS_STAT_BOSS	Bosses derrotados
+DETAILS_STAT_DUNGEON	Dungeon) concluídas
+DETAILS_STAT_FISH	Peixes Capturados
+DETAILS_STAT_MINE	Minérios Extraídos
+DETAILS_STAT_STONE	Pedras Metin destruídas
+DETAILS_TAB_BONUS	Bónus
+DETAILS_TAB_STAT	Estatísticas

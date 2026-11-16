@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Bónusz keresése...
+DETAILS_STAT_BOSS	Megölték a fõnököt
+DETAILS_STAT_DUNGEON	A Dungeon befejezõdött
+DETAILS_STAT_FISH	Befogott hal
+DETAILS_STAT_MINE	Kivont ásványok
+DETAILS_STAT_STONE	Stone Destroyed
+DETAILS_TAB_BONUS	Bónuszok
+DETAILS_TAB_STAT	Statisztika

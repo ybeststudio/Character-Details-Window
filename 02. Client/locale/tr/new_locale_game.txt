@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Search Bonus...
+DETAILS_STAT_BOSS	Öldürülen Boss
+DETAILS_STAT_DUNGEON	Tamamlanan Zindan
+DETAILS_STAT_FISH	Yakalanan Balýk
+DETAILS_STAT_MINE	Çýkarýlan Mineraller
+DETAILS_STAT_STONE	Kýrýlan Taþ
+DETAILS_TAB_BONUS	Bonus
+DETAILS_TAB_STAT	Ýstatistik

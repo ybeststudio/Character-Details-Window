@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Rechercher un bonus...
+DETAILS_STAT_BOSS	Boss vaincus
+DETAILS_STAT_DUNGEON	Donjons terminés
+DETAILS_STAT_FISH	Poissons capturés
+DETAILS_STAT_MINE	Minerais extraits
+DETAILS_STAT_STONE	Metins détruits
+DETAILS_TAB_BONUS	Bonus
+DETAILS_TAB_STAT	Statistiques

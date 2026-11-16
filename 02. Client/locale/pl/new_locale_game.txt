@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Szukaj bonusu...
+DETAILS_STAT_BOSS	Szef zabity
+DETAILS_STAT_DUNGEON	Dungeon ukoñczony
+DETAILS_STAT_FISH	Ryba z³apana
+DETAILS_STAT_MINE	Wydobywane minera³y
+DETAILS_STAT_STONE	Kamieñ zniszczony
+DETAILS_TAB_BONUS	Bonusy
+DETAILS_TAB_STAT	Statystyka

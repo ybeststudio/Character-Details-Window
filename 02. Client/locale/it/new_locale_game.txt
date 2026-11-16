@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Cerca bonus...
+DETAILS_STAT_BOSS	Capo ucciso
+DETAILS_STAT_DUNGEON	Dungeon completato
+DETAILS_STAT_FISH	Pesce catturato
+DETAILS_STAT_MINE	Minerali estratti
+DETAILS_STAT_STONE	Pietra distrutta
+DETAILS_TAB_BONUS	Bonus
+DETAILS_TAB_STAT	Statistiche

@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Bonus suchen...
+DETAILS_STAT_BOSS	Boss getötet
+DETAILS_STAT_DUNGEON	Dungeon abgeschlossen
+DETAILS_STAT_FISH	Fische gefangen
+DETAILS_STAT_MINE	Mineralien abgebaut
+DETAILS_STAT_STONE	Steine zerstört
+DETAILS_TAB_BONUS	Bonusse
+DETAILS_TAB_STAT	Statistiken

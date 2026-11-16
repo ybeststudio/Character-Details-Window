@@ -1,0 +1,8 @@
+DETAILS_SEARCH_HINT	Search Bonus...
+DETAILS_STAT_BOSS	Boss Killed
+DETAILS_STAT_DUNGEON	Dungeon Completed
+DETAILS_STAT_FISH	Fish Captured
+DETAILS_STAT_MINE	Minerals Extracted
+DETAILS_STAT_STONE	Stone Destroyed
+DETAILS_TAB_BONUS	Bonuses
+DETAILS_TAB_STAT	Statistics
